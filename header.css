@@ -1,0 +1,12 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+}
+.salve{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-image: url(../img/Menu.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
